@@ -48,6 +48,8 @@ A Telegram CC Checker Bot with hella lotta features.
     /myapikey | !myapikey - View the added SK Key for /schk gate
     ```
 
+dp
+
 - **📡 Other Commands**
     ```
     /me | !me - User's Info
